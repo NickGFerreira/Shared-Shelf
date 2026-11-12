@@ -1,6 +1,6 @@
 body {
     background-color: lightblue;
-    background-image: url(https://exotic-woods.com/wp-content/uploads/2023/01/Imported_0014_Mahogany2CGen..jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVZ0nHQyTu_UNtj19-yrZxHDFrQaSX6LMhLCN_Uo82A&s=10);
 }
 
 h1 {
@@ -14,7 +14,7 @@ p {
 .container {
     display: grid;
     grid-template-columns: auto auto auto;
-    background-color: brown;
+    background-image: url(https://exotic-woods.com/wp-content/uploads/2023/01/Imported_0014_Mahogany2CGen..jpg);
     padding: 10px;
     gap: 5px;
 }
