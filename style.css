@@ -18,8 +18,8 @@ p {
     display: grid;
     grid-template-columns: auto auto auto;
     background-image: url(https://exotic-woods.com/wp-content/uploads/2023/01/Imported_0014_Mahogany2CGen..jpg);
-    padding: 10px;
-    gap: 5px;
+    padding: 20px;
+    gap: 20px;
 }
 
 .container div {
