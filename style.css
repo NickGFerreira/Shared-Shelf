@@ -1,6 +1,9 @@
 body {
     background-color: lightblue;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVZ0nHQyTu_UNtj19-yrZxHDFrQaSX6LMhLCN_Uo82A&s=10);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 h1 {
